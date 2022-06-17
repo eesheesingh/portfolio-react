@@ -27,11 +27,11 @@ const Work = () => {
                             AnimZone                        
                             </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://github.com/eesheesingh/AnimZone.git" target='_blank'>
+                            <a href=" https://eesheesingh.github.io/AnimZone/" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
                                     Demo</button>
                             </a>
-                            <a href="https://eesheesingh.github.io/AnimZone/" target='_blank'>
+                            <a href=" https://github.com/eesheesingh/AnimZone.git" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>
                                     GitHub</button>
                             </a>
@@ -48,10 +48,10 @@ const Work = () => {
                             GeoZapp-EVC India                        
                             </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://github.com/PiyushKumar-18-AI/GeoZapp-EVC-India.git" target='_blank'>
+                            <a href=" https://youtu.be/TVkHlWkFoUs " target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="https://youtu.be/TVkHlWkFoUs" target='_blank'>
+                            <a href="https://github.com/PiyushKumar-18-AI/GeoZapp-EVC-India.git" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>GitHub</button>
                             </a>
                         </div>
@@ -84,10 +84,10 @@ const Work = () => {
                         Diabetes Prediction System                        
                             </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://github.com/eesheesingh/DiabetesPedictionSystem.git" target='_blank'>
+                            <a href="https://youtu.be/r9xSVMsz-fA " target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="https://youtu.be/r9xSVMsz-fA "target='_blank'>
+                            <a href=" https://github.com/eesheesingh/DiabetesPedictionSystem.git "target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>GitHub</button>
                             </a>
                         </div>
