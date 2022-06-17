@@ -1,4 +1,4 @@
-Hosted website [https://github.com/eesheesingh/Portfolio.git](https://portfolio-react-eesheesingh.vercel.app/)
+Hosted website https://portfolio-react-eesheesingh.vercel.app/
 
 
 # Getting Started with Create React App
