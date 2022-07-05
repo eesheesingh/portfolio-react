@@ -5,6 +5,7 @@ import wallet from '../assets/wallet.png'
 import diabetes from '../assets/diabetes.png'
 import avatar from '../assets/maleavatar.png'
 import bgmovie from '../assets/bgmovie.jpg'
+import gzsymbol from '../assets/gzsymbol.PNG'
 
 const Work = () => {
   return (
@@ -113,11 +114,11 @@ const Work = () => {
                     </div>
                     </div>
 
-                    <div style={{backgroundImage:`url(${avatar})`}}
-                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    {/* <div style={{backgroundImage:`url(${avatar})`}}
+                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
 
                     {/* hover effect */}
-                    <div className='opacity-0 group-hover:opacity-100 duration-1000'>
+                    {/* <div className='opacity-0 group-hover:opacity-100 duration-1000'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         Login/Sign-Up Page Using PHP
                             </span>
@@ -125,6 +126,23 @@ const Work = () => {
                             
                             <a href="https://github.com/eesheesingh/Login-Signup-Page.git" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>GitHub</button>
+                            </a>
+                        </div>
+                    </div>
+                    </div> */}
+
+                    <div style={{backgroundImage:`url(${gzsymbol})`}}
+                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                    {/* hover effect */}
+                    <div className='opacity-0 group-hover:opacity-100 duration-1000'>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        "GameZone" Using Wordpress
+                            </span>
+                        <div className='pt-8 text-center'>
+                            
+                            <a href="http://gamezoneeeshee.rf.gd/" target='_blank'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-800 font-bold text-lg'>Demo</button>
                             </a>
                         </div>
                     </div>

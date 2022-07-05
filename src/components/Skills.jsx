@@ -10,6 +10,7 @@ import REACT  from '../assets/reaact.png'
 import PYTHON  from '../assets/python.png'
 import JAVA  from '../assets/javalogo.png'
 import AWS from '../assets/aws.png'
+import WORDPRESS from '../assets/wordpress.png'
 
 const Skills = () => {
   return (
@@ -73,6 +74,11 @@ const Skills = () => {
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto pt-8' src={AWS} alt="AWS" />
                 <p className='my-4'>AWS-Intermidiate</p>
+            </div>
+
+            <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto pt-8' src={WORDPRESS} alt="WORDPRESS" />
+                <p className='my-4'>Wordpress</p>
             </div>
 
             </div>
